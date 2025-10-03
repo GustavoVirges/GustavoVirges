@@ -72,7 +72,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/GustavoVirges/GustavoVirges/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/GustavoVirges/GustavoVirges/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <!-- Footer animado -->
